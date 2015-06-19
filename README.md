@@ -11,7 +11,7 @@ Using SlidingMenu in AndroidStudio with jfeinstein10-SlidingMenu
 
 4. 将SlidingMenu和ActionBarSherlock的库复制到libraries中
 
-5. 打开AndroidStudio就能看到该文件夹libraries了，接下来便是在AndroidStudio中修改gradle和AndroidManifest文件了
+5. 打开AndroidStudio就能看到该文件夹libraries了，接下来便是在AndroidStudio中修改gradle文件了
 
 6. 打开ActionBarSherlock中的build.gradle，将其中的buildToolsVersion和compileSdkVersion改成与app中的build.gradle的buildToolsVersion和compileSdkVersion一样
 
