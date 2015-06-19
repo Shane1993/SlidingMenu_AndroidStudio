@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/StudyData/android/AndroidStudio_BasicDemo/SlidingMenu/SlidingMenu_jfeinstein10/libraries/ActionBarSherlock/res/values-w500dp/abs__dimens.xml -->
+    <eat-comment/>
+    <integer name="abs__max_action_buttons">4</integer>
+</resources>
